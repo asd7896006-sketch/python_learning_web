@@ -1,0 +1,6 @@
+{
+  "name": "Python 類別與物件互動教室",
+  "description": "給初學者的 Python Class（類別）與 Object（物件）互動式教學網頁，包含藍圖與房子沙盒模擬、逐行程式碼解析與即時小測驗。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
